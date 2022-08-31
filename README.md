@@ -1,6 +1,6 @@
 # React Shopping Cart
 
-![Alt text](/public/images/screen.png)
+![Alt text](/public/images/screen.gif)
 
 # Objectives
 
